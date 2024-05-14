@@ -9,7 +9,6 @@ int factorial(int n)
     int partialAns = factorial(n-1);
     return n*partialAns;
 }
-
 int main()
 {
     int n;

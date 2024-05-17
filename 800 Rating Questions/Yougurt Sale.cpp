@@ -1,7 +1,6 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
-
 using ll = signed long long int;
 
 void mantra()
